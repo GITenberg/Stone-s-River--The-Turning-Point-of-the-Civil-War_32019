@@ -1,0 +1,26 @@
+_repo: Stone-s-River--The-Turning-Point-of-the-Civil-War_32019
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vance, Wilson J.
+    gutenberg_agent_id: '35620'
+    url: http://www.gutenberg.org/2009/agents/35620
+description: ''
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2010-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32019'
+  lccn: '15000731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Stones River, Battle of, Murfreesboro, Tenn., 1862-1863'
+- !lcc 'E456'
+title: 'Stone''s River: The Turning-Point of the Civil War'
+url: http://www.gutenberg.org/ebooks/32019
